@@ -1,0 +1,4 @@
+- Build docker using `./scripts/build_docker.sh`
+- Enter built docker image using `./scripts/enter_container.sh`
+- Build Android from within container using `./scripts/build_android`
+    - Requires having the OrangePi Zero 3 source code in the `./H618-Android12-Src` directory.
